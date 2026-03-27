@@ -273,7 +273,7 @@ export default function App() {
                     <div className="contact-method-icon"><Linkedin /></div>
                     <div className="contact-method-info">
                       <h5>LinkedIn</h5>
-                      <p>linkedin.com/in/abhijeet-kumar</p>
+                      <p><a href="https://www.linkedin.com/in/abhijeet-kumar-1310451b7/" target="_blank" rel="noreferrer" style={{color: 'inherit', textDecoration: 'none'}}>linkedin.com/in/abhijeet-kumar-1310451b7</a></p>
                     </div>
                   </div>
                 </div>
@@ -305,8 +305,8 @@ export default function App() {
       <footer>
         <div className="container">
           <div className="social-links">
-            <a href="#" className="social-link" aria-label="Github"><Github size={20} /></a>
-            <a href="#" className="social-link" aria-label="LinkedIn"><Linkedin size={20} /></a>
+            <a href="https://github.com/Abhijeetkur" target="_blank" rel="noreferrer" className="social-link" aria-label="Github"><Github size={20} /></a>
+            <a href="https://www.linkedin.com/in/abhijeet-kumar-1310451b7/" target="_blank" rel="noreferrer" className="social-link" aria-label="LinkedIn"><Linkedin size={20} /></a>
             <a href="mailto:abhijeetkur025@gmail.com" className="social-link" aria-label="Email"><Mail size={20} /></a>
           </div>
           <p>&copy; {new Date().getFullYear()} Abhijeet Kumar. All rights reserved.</p>
