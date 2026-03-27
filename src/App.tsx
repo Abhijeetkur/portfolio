@@ -146,8 +146,8 @@ export default function App() {
 
               <div className="hero-stats delay-400">
                 <div className="stat-item">
-                  <h4>Java</h4>
-                  <p>Spring Boot Focus</p>
+                  <h4>Java & Python</h4>
+                  <p>Spring Boot & FastAPI</p>
                 </div>
                 <div className="stat-item">
                   <h4>AWS & Cloud</h4>
