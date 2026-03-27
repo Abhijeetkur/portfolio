@@ -1,0 +1,60 @@
+                Abhijeet Kumar
+     +91-8287792842 # abhijeetkur025@gmail.com ï LinkedIn § Github     LeetCode
+
+Technical Skills
+
+  Languages: Python | Java
+  Backend & Frameworks: FastAPI | REST APIs
+  Frontend: React | HTML | CSS | JavaScript | TypeScript | Tailwind CSS
+  Databases: PostgreSQL | MySQL | MongoDB | Redis
+  Cloud & DevOps: AWS(EC2, S3, EKS, VPC) | Docker | Kubernetes | Jenkins | CI/CD Pipelines
+   Tools: Git | GitHub | Postman | Agile/Scrum
+  Technical Expertise: Data Structures & Algorithms | System Design | Problem Solving | Generative AI Fundamentals
+
+Experience
+
+  Software Developer                                                     October, 2024 – October, 2025
+  Apiero Medica Pvt. Ltd.                                                                                      On-Site, Bhopal
+       • Developed video consultation and appointment booking features for user/doctor panels, enabling secure real-time
+       telemedicine and handling 150+ daily sessions with zero downtime.
+       • Built analytics dashboards for doctors and admins tracking bookings, revenue, and performance metrics, improving
+       decision-making and operational eﬃciency by 25%.
+
+  Backend Developer                                                       January, 2024 – September, 2024
+  Nector Foods Pvt. Ltd.                                                                                         On-Site, Delhi
+       • Architected 10+ RESTful APIs in FastAPI for auth, orders, and inventory; designed PostgreSQL schemas and
+        integrated third-party payment and logistics APIs for a consumer food-tech platform.
+       • Automated CI/CD testing pipeline using Selenium and Jenkins, eliminating 6+ hours/day of manual QA eﬀort and
+        accelerating sprint release cycles.
+
+  Data Science Intern                                                        October, 2023 – April, 2024
+   Vlippr                                                                                        Remote, Bengaluru
+       • Applied NLP and statistical modeling techniques to build speech-to-text training datasets using Python, Librosa, and
+        PyTorch, achieving 95% transcription accuracy for production voice-cloning models on AWS/GCP.
+
+Personal Projects
+
+  AI Resume Analyzer | React, Python, FastAPI, LangChain, FAISS, Gemini                                GitHub
+       • Architected and developed a full-stack AI-powered applicant tracking system (ATS) that evaluates resumes against
+        job descriptions using Retrieval-Augmented Generation (RAG).
+       • Built a scalable backend REST API using FastAPI to handle multi-part ﬁle uploads, asynchronous processing, and AI
+        orchestration.
+       • Developed a responsive, modern frontend using React and Vite, implementing custom CSS with glassmorphism and
+       a dark mode theme for a premium user experience.
+       • Integrated Google’s Gemini 2.5 Flash LLM and FAISS vector database to semantically search uploaded PDFs and
+        synthesize multidimensional candidate metrics.
+
+  Workout Tracker | React, TypeScript, FastAPI, Python, PostgreSQL, JWT                                GitHub
+       • Architected a full-stack ﬁtness tracking application to help users plan workouts, log exercises, and visualize progress
+        reports over time.
+       • Developed a high-performance RESTful API using FastAPI and Python, implementing secure user authentication and
+        authorization pipelines with PyJWT.
+       • Engineered a responsive, dynamic frontend interface using React and TypeScript, leveraging Axios for asynchronous
+       API communication and React Router for seamless navigation.
+       • Designed a robust, scalable relational database schema using PostgreSQL and SQLAlchemy ORM to eﬃciently
+      manage and query complex relationships between users, workout routines, and historical logs.
+
+Education
+
+  Bachelor of Technology(Hons.) in Computer Science                                       2020-24
+  NOIDA INSTITUTE OF ENGINEERING AND TECHNOLOGY                                        CGPA: 7.54/10
