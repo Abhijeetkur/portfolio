@@ -97,7 +97,7 @@ export default function App() {
         <div className="container navbar-container">
           <a href="#" className="logo">
             <span className="logo-dot"></span>
-            Abhijeet.
+            Abhijeet
           </a>
 
           <button
