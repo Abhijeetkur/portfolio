@@ -244,9 +244,15 @@ export default function App() {
                       <a href={project.github} target="_blank" rel="noreferrer">
                         <Github size={18} /> Code
                       </a>
-                      <a href={project.demo} target="_blank" rel="noreferrer">
-                        <ExternalLink size={18} /> Live Demo
-                      </a>
+                      {project.demo === '#' ? (
+                        <span style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', opacity: 0.6, cursor: 'not-allowed', fontSize: '0.9rem', fontWeight: 500 }}>
+                          <ExternalLink size={18} /> Not Available
+                        </span>
+                      ) : (
+                        <a href={project.demo} target="_blank" rel="noreferrer">
+                          <ExternalLink size={18} /> Live Demo
+                        </a>
+                      )}
                     </div>
                   </div>
                 </div>
