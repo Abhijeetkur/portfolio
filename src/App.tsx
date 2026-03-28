@@ -301,18 +301,19 @@ export default function App() {
                 </div>
               </div>
 
-              <form className="contact-form" onSubmit={(e) => e.preventDefault()}>
+              <form action="https://formsubmit.co/abhijeetkur025@gmail.com" method="POST" className="contact-form">
+                <input type="hidden" name="_subject" value="New Contact from Portfolio!" />
                 <div className="form-group">
                   <label htmlFor="name">Your Name</label>
-                  <input type="text" id="name" className="form-control" placeholder="Jane Doe" required />
+                  <input type="text" name="name" id="name" className="form-control" placeholder="Jane Doe" required />
                 </div>
                 <div className="form-group">
                   <label htmlFor="email">Your Email</label>
-                  <input type="email" id="email" className="form-control" placeholder="jane@example.com" required />
+                  <input type="email" name="email" id="email" className="form-control" placeholder="jane@example.com" required />
                 </div>
                 <div className="form-group">
                   <label htmlFor="message">Message</label>
-                  <textarea id="message" className="form-control" placeholder="Tell me about the opportunity..." required></textarea>
+                  <textarea name="message" id="message" className="form-control" placeholder="Tell me about the opportunity..." required></textarea>
                 </div>
                 <button type="submit" className="btn btn-primary" style={{ alignSelf: 'flex-start' }}>
                   Send Message <ArrowRight size={18} />
